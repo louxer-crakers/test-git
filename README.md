@@ -1,2 +1,2 @@
 ini repositoryku
-ini nanti ku hapusz
+ini nanti ku hapus
